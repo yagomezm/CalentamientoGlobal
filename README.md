@@ -17,7 +17,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 The Software Is Provided "As Is", Without Warranty Of Any Kind, Express Or Implied, Including But Not Limited To The Warranties Of Merchantability, Fitness For A Particular Purpose And Noninfringement. In No Event Shall The Authors Or Copyright Holders Be Liable For Any Claim, Damages Or Other Iability, Whether In An Action Of Contract, Tort Or Otherwise, Arising From, Out Of Or In Connection With The Software Or The Use Or Other Dealings In The Software.
 
-<a href="https://imageshack.com/a/img924/8076/pTNGW5.jpg">
+![screenshot] (https://imageshack.com/a/img924/8076/pTNGW5.jpg)
+<img href="https://imageshack.com/a/img924/8076/pTNGW5.jpg">
 
 
 
